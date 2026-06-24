@@ -346,7 +346,7 @@ export default function App() {
     } else {
       setShowCustomContactSettings(false);
     }
-  }, [activeContact, customContacts]);
+  }, [activeContact]);
 
   const activeName = activeContact !== 'gerda' ? (activeContactConfig.name || "Aangepast contact") : 'Gerda';
   const activeAvatar = activeContact !== 'gerda' ? activeContactConfig.profilePic : GERDA_AVATAR;
