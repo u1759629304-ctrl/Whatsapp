@@ -1,0 +1,9 @@
+{
+  "name": "WhatsApp - Gerda",
+  "description": "Chat and call with Lisette ter Horst via Gemini AI.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ],
+  "majorCapabilities": []
+}

@@ -1,0 +1,1 @@
+             const volume = rawVolume * 0.8; // 0.8x sensitivity
